@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "allowJs":true,
+      "allowSyntheticDefaultImports":true
+    },
+    
+    "include": [
+      "src/*",
+      "data/*"
+    ]
+  }
