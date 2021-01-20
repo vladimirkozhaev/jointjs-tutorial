@@ -12,7 +12,7 @@
   "devDependencies": {
     "@types/backbone": "^1.4.2",
     "@types/d3": "5.7.2",
-    "jointjs": "^3.1.1",
+    "jointjs": "^3.3.0",
     "live-server": "^1.2.1",
     "ts-loader": "^6.2.1",
     "typescript": "^3.7.5",
